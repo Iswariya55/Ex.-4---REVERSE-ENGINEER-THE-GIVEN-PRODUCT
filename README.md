@@ -37,8 +37,8 @@
 ![image](https://github.com/user-attachments/assets/77fb7c25-516e-4d29-8ec4-0177f91ef5d9)
 
 
-### Name: Lokesh M
-### Register Number: 212223230114
+### Name: ISWARIYA R
+### Register Number: 212224220039
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
